@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hey! I'm Nivri — MrNivri
 
-<!--
-**MrNivri/MrNivri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Creative Developer | 🎨 Pixel Artist | 🕹️ Gamer
 
-Here are some ideas to get you started:
+I'm a self-taught developer who enjoys combining technology, creativity, and programming to bring ideas to life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build tools, experiment with software, create pixel art, and explore game development.
+
+### 🛠️ Technologies & Tools
+
+- **Languages:** Python, Lua
+- **Tools:** Git, VS Code, Aseprite, pngTuberRemix
+- **Platforms:** Windows, Linux
+
+### 🚀 Currently Exploring
+
+Creative software, automation, game development, and custom tools.
+
+### 🧠 My Philosophy
+
+*Every day we can learn something new.*
+
+---
+
+**🏢 SEMTL Studio™** — "Necessity is the mother of invention".
+
+🇲🇽 Native Spanish speaker | Open to English and Spanish communication.
